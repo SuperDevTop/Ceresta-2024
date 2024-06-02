@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Jobs
+  m_EditorClassIdentifier: 
+  m_GroupName: Jobs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1139d767121615248957b478bb7d5e74
+  m_SerializeEntries:
+  - m_GUID: abb7c95d5fa9d3645a7f1748273f0060
+    m_Address: Assets/AddressableSprites/Jobs/thief.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f5de38d2f572f6478cf0d4de218305a
+    m_Address: Assets/AddressableSprites/Jobs/swimmer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b249c370e758ce479c9b618fb6fddcb
+    m_Address: Assets/AddressableSprites/Jobs/sniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8cdd2afc6ca97b48b019653f92bbe91
+    m_Address: Assets/AddressableSprites/Jobs/policeman.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1221b7e73990c4449a3e800cd36830d4
+    m_Address: Assets/AddressableSprites/Jobs/miner.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e752d62cb748b940b8a2a0ddcff16c9
+    m_Address: Assets/AddressableSprites/Jobs/engineer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e192babfdc66d1e4d8ba0130445e15e0
+    m_Address: Assets/AddressableSprites/Jobs/doctor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65280b61cd5f3f440944e55172071bcf
+    m_Address: Assets/AddressableSprites/Jobs/acrobat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1240f2877d147d4481930bf171c291a
+    m_Address: Assets/AddressableSprites/Jobs/climber.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85bcf2f06915b8f429a60928eaef0b19
+    m_Address: Assets/AddressableSprites/Jobs/astronaut.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1422baa6d403c0408efc81ad1a89fbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 81ab949ef11755e478c4fc06bd91fbde, type: 2}
+    - {fileID: 11400000, guid: 7379ad4b1b4042741b6b3ad978e3176d, type: 2}

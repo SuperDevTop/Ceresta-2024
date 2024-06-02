@@ -1,0 +1,745 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ShopInventory
+  m_EditorClassIdentifier: 
+  m_GroupName: ShopInventory
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6078498edc38a6f4a97139d2665669f6
+  m_SerializeEntries:
+  - m_GUID: 49c17474e7433694d9da686f37a18b2f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/130.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e71277939f8f2de46b0362fb8e274fae
+    m_Address: Assets/AddressableSprites/Shop&Inventory/46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a79db33f205b6f34ca34930cd58eb18d
+    m_Address: Assets/AddressableSprites/Shop&Inventory/42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9f7f6aa43098b746b8ead8dca7392bd
+    m_Address: Assets/AddressableSprites/Shop&Inventory/17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b0b3ce2edb6fe04d8df2435076181fe
+    m_Address: Assets/AddressableSprites/Shop&Inventory/148.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 679af164fb3638f43b9b177b3a15cd4f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1affeb4959c4ef44eba21e56daec72a7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/175.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1e44aef1e1b7e043bc0003443e55285
+    m_Address: Assets/AddressableSprites/Shop&Inventory/80.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04d0956c4f266764290e0b04fa92d854
+    m_Address: Assets/AddressableSprites/Shop&Inventory/97.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e17d554eb6ddbc4187ef8e438db2233
+    m_Address: Assets/AddressableSprites/Shop&Inventory/7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea61e810a9c4af949bbdd6ba10d54bd5
+    m_Address: Assets/AddressableSprites/Shop&Inventory/95.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96be7fd0aa7eb31458fd9debb2ccf0d4
+    m_Address: Assets/AddressableSprites/Shop&Inventory/84.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58b9255ac8140724d98b06fe3b1191b2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e77e0f11830afdc4eaecd81e5702a6ed
+    m_Address: Assets/AddressableSprites/Shop&Inventory/150.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f52ed6ea8ddb219498f51e93f94218fd
+    m_Address: Assets/AddressableSprites/Shop&Inventory/141.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6ce90430f680d2429630a564ec609ea
+    m_Address: Assets/AddressableSprites/Shop&Inventory/116.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7b39a83e9a02ce45a76492d697e4627
+    m_Address: Assets/AddressableSprites/Shop&Inventory/66.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 517a246fd707ea14ebb4272d55812296
+    m_Address: Assets/AddressableSprites/Shop&Inventory/13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b023e1388f94234f979e9eacff97c67
+    m_Address: Assets/AddressableSprites/Shop&Inventory/151.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cff25759bf15cd94fa4a2414e0a15d8b
+    m_Address: Assets/AddressableSprites/Shop&Inventory/143.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b1a074279f1dca419b3c6a61442ba42
+    m_Address: Assets/AddressableSprites/Shop&Inventory/41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 438fc48094e9d2b4fa8b49d9ab2f1af2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227c371fa8e9e134d803f5077994f63d
+    m_Address: Assets/AddressableSprites/Shop&Inventory/133.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17857501325312b4fa7f4c2f94a6d185
+    m_Address: Assets/AddressableSprites/Shop&Inventory/191.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 641ba8d52968de64dac5d9be804ab732
+    m_Address: Assets/AddressableSprites/Shop&Inventory/60.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c901c9eca1a0403479afc36392be8c11
+    m_Address: Assets/AddressableSprites/Shop&Inventory/4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e21edefe0373c5042a788fd0a4ac3e7e
+    m_Address: Assets/AddressableSprites/Shop&Inventory/131.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad2d700bc8c3f7e45959dbce3eede027
+    m_Address: Assets/AddressableSprites/Shop&Inventory/192.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bc59affa8375f14d82cdd99a8d71a37
+    m_Address: Assets/AddressableSprites/Shop&Inventory/104.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 040615cead647d040af28a9c8f559b1d
+    m_Address: Assets/AddressableSprites/Shop&Inventory/181.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1516ac3945c0206469bed72810f69ba5
+    m_Address: Assets/AddressableSprites/Shop&Inventory/54.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8353bb88ba1439c4283b5696129c5498
+    m_Address: Assets/AddressableSprites/Shop&Inventory/157.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3717bb93417ea34682827a1d7a3b985
+    m_Address: Assets/AddressableSprites/Shop&Inventory/127.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0a869a7a21b124b972eca6847be3a8
+    m_Address: Assets/AddressableSprites/Shop&Inventory/24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ed9401f6a58dd3489f6ba9543e1ce0d
+    m_Address: Assets/AddressableSprites/Shop&Inventory/237.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c14b83105486c21439e96d2075e1326a
+    m_Address: Assets/AddressableSprites/Shop&Inventory/180.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e4859070df8e9344959d1eca68c3e2d
+    m_Address: Assets/AddressableSprites/Shop&Inventory/45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52c7506d1b346164e956e479e55cc639
+    m_Address: Assets/AddressableSprites/Shop&Inventory/44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd98f35a1ffd91241ade59e9454069ae
+    m_Address: Assets/AddressableSprites/Shop&Inventory/2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ad628487ace9d478f33d3553523545
+    m_Address: Assets/AddressableSprites/Shop&Inventory/3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8458f7160788b8448b7be8a0ed36125f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/53.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325555e3efbb6e1428b9ff7dcf6cb5f1
+    m_Address: Assets/AddressableSprites/Shop&Inventory/166.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae0605c1780d134aa603830dbfb9449
+    m_Address: Assets/AddressableSprites/Shop&Inventory/174.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77a248782ce557744b2cf82d659da274
+    m_Address: Assets/AddressableSprites/Shop&Inventory/306.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36ffe2f09096f044bb705dc6d697d90b
+    m_Address: Assets/AddressableSprites/Shop&Inventory/49.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e3846f8f29e65a4f8a9add70ed9d1aa
+    m_Address: Assets/AddressableSprites/Shop&Inventory/206.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42af5b3b511073149a9726b41dc7999b
+    m_Address: Assets/AddressableSprites/Shop&Inventory/155.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22c9cc03e5a510c4ba88bfa13f3afa65
+    m_Address: Assets/AddressableSprites/Shop&Inventory/120.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c6a7a0a77095eb41bc42801554ddac8
+    m_Address: Assets/AddressableSprites/Shop&Inventory/10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32e88bb47aa1d2b4c95281bacc4437df
+    m_Address: Assets/AddressableSprites/Shop&Inventory/122.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b5664ec5ed775543afda832d11232d7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/90.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc8e4dcab05ea8748893152200f51d2c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 795ede9c7a7ddb144a2ffa1b42c1c5af
+    m_Address: Assets/AddressableSprites/Shop&Inventory/168.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aaf89d4208a8c34e8f7d437828ba724
+    m_Address: Assets/AddressableSprites/Shop&Inventory/119.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 420d49d76441ac54d91e6f5c188e08c8
+    m_Address: Assets/AddressableSprites/Shop&Inventory/147.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1596375fec00a4346b8213a0cff9c829
+    m_Address: Assets/AddressableSprites/Shop&Inventory/142.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5edf61c36f9cb8140b43fce65d449d0c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/126.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd3d7a0eded811e45aa4787d79cdb84c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/171.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6365e33863e07d044b54684a6a61653a
+    m_Address: Assets/AddressableSprites/Shop&Inventory/27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74457b7d1b7260a41b40df540d485e68
+    m_Address: Assets/AddressableSprites/Shop&Inventory/88.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6bd2dd91dd2f9f42935154cf5b25fec
+    m_Address: Assets/AddressableSprites/Shop&Inventory/170.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdcc618093e0bac498579a0e2e8ce9e7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/149.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31f4b39e50dbdec46931c59d8cd10ceb
+    m_Address: Assets/AddressableSprites/Shop&Inventory/135.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccac1f0fe71db91438d03fb9906f756a
+    m_Address: Assets/AddressableSprites/Shop&Inventory/153.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aaa4a2fd2d7d6c468ec081e1f96061b
+    m_Address: Assets/AddressableSprites/Shop&Inventory/82.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84cf8efa0eb4eb49982e6c92ac48656
+    m_Address: Assets/AddressableSprites/Shop&Inventory/65.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19a54940afe80e24c8d8f9d0c412e271
+    m_Address: Assets/AddressableSprites/Shop&Inventory/167.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e15417c861cd68047b4ee9922f4b497e
+    m_Address: Assets/AddressableSprites/Shop&Inventory/129.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6f473cf30e74946a4f06116c46628c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/102.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80789acf78e150b45af4111ddf91a1ba
+    m_Address: Assets/AddressableSprites/Shop&Inventory/189.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0648d6da98113774e959dcfef3829d60
+    m_Address: Assets/AddressableSprites/Shop&Inventory/12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9b795f8d0e0e8347979a19c2f650033
+    m_Address: Assets/AddressableSprites/Shop&Inventory/38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e081ade02b638941918fcf8c41160aa
+    m_Address: Assets/AddressableSprites/Shop&Inventory/117.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9171b34735d37944b387e080950fe36
+    m_Address: Assets/AddressableSprites/Shop&Inventory/77.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f25221a18cda5504fa55fc62d34a6566
+    m_Address: Assets/AddressableSprites/Shop&Inventory/118.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28cf9c21e3c51a24e8dd6a1cdae19fd9
+    m_Address: Assets/AddressableSprites/Shop&Inventory/1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89d1f7895e24bd840b4aca01eb8b9b51
+    m_Address: Assets/AddressableSprites/Shop&Inventory/138.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e1eb41fa1fb8c4e8b4324b5500820c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/40.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8bc612c53aaf564e8ae7d1662b25162
+    m_Address: Assets/AddressableSprites/Shop&Inventory/108.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eae6c8d10523b054ea075ef78248cd2f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/107.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9adb12060bacec94ea3aedbea11f1dac
+    m_Address: Assets/AddressableSprites/Shop&Inventory/9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3dbd3094a69bdf47bcd5095c141a9e1
+    m_Address: Assets/AddressableSprites/Shop&Inventory/106.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93c80e401443474e8051fd6d473c278
+    m_Address: Assets/AddressableSprites/Shop&Inventory/103.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0e3fe0b5e575954ea32836d9ea963fc
+    m_Address: Assets/AddressableSprites/Shop&Inventory/71.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 017fb12bcd69ea24587d066fdb78b7d5
+    m_Address: Assets/AddressableSprites/Shop&Inventory/62.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9184b9359703ca044a270e7a027593be
+    m_Address: Assets/AddressableSprites/Shop&Inventory/64.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e88055157ce3760459f00403f8e477e3
+    m_Address: Assets/AddressableSprites/Shop&Inventory/161.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03393283d99c09e47b8decaefba9763a
+    m_Address: Assets/AddressableSprites/Shop&Inventory/36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1262f13ac7d4724799eb110dbb0a8ff
+    m_Address: Assets/AddressableSprites/Shop&Inventory/741.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 701b6454b3d22a2419ea8a37939a04b0
+    m_Address: Assets/AddressableSprites/Shop&Inventory/92.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0d1ae0d0c7dfd54683cfc0a34f81fd6
+    m_Address: Assets/AddressableSprites/Shop&Inventory/11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92e4657feeab22542a69a77405076a1f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7d94c575f7bcc443a94b0ed4bad540f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/169.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1198f93316201e4ea7dd7c8f977ccd1
+    m_Address: Assets/AddressableSprites/Shop&Inventory/63.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c834731233c07bf4fb94b63a8cdac637
+    m_Address: Assets/AddressableSprites/Shop&Inventory/145.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc83bf281362237488b22a8d763cfc1b
+    m_Address: Assets/AddressableSprites/Shop&Inventory/85.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59e4c2d495f559b419ed5c0b170507b6
+    m_Address: Assets/AddressableSprites/Shop&Inventory/139.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c086884f5e4327d42bc7c90747c1b5e1
+    m_Address: Assets/AddressableSprites/Shop&Inventory/30.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff4cdbb7e5b2d5144b04ec7dc21bc7d2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/137.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f808fde1acc4d7d4787425a8c68df3fb
+    m_Address: Assets/AddressableSprites/Shop&Inventory/43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a76b81f56fa2f8d42a9e0ad16aaff724
+    m_Address: Assets/AddressableSprites/Shop&Inventory/144.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 862ee8e849d219e4991f53a5bd2d4ed2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/154.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97bd5facd5d3cf543a0fe1eeefb5c615
+    m_Address: Assets/AddressableSprites/Shop&Inventory/22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53e56bbd2c178ad49afa70dfb1cb9358
+    m_Address: Assets/AddressableSprites/Shop&Inventory/39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59778e4f9822a834da989720d33152f2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8facdae184470c54bbd352f2dc296f4a
+    m_Address: Assets/AddressableSprites/Shop&Inventory/777.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d02702cd03f4dd429652a048f09f8c5
+    m_Address: Assets/AddressableSprites/Shop&Inventory/72.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feed0439653600c4ca1729d6e0d56af7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bd719c59de9f4d45aa2d6eb56e18f80
+    m_Address: Assets/AddressableSprites/Shop&Inventory/91.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8f74f8b4640bc448a48e91f6b55fa24
+    m_Address: Assets/AddressableSprites/Shop&Inventory/32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 287cc911bddec2a47a079ba6102f7b77
+    m_Address: Assets/AddressableSprites/Shop&Inventory/21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51c798022c0527547aebc7f624fcadd7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/48.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a343dc597f6f594a895bae5640223ee
+    m_Address: Assets/AddressableSprites/Shop&Inventory/86.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64e0f09270bf6ef4289dee6bb814bd48
+    m_Address: Assets/AddressableSprites/Shop&Inventory/15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffcddbb3b8be2d34eab6ec0582a102d1
+    m_Address: Assets/AddressableSprites/Shop&Inventory/19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce30485e2be472f48837ff8207d144a8
+    m_Address: Assets/AddressableSprites/Shop&Inventory/172.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0747a426fd113f439236db907d1d065
+    m_Address: Assets/AddressableSprites/Shop&Inventory/28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf9530d69f5c5f4185658aa592ba236
+    m_Address: Assets/AddressableSprites/Shop&Inventory/96.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6e4352cb1bf5d247870e70c005eabb2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/179.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c89017e2cd41d642bc69c69dc369edc
+    m_Address: Assets/AddressableSprites/Shop&Inventory/105.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01fdf002c283605458f747c4bad974e2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/78.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcecafaffc5879448905759a2ee873bf
+    m_Address: Assets/AddressableSprites/Shop&Inventory/93.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c1f95f713331104abdf6ce8ebf5a953
+    m_Address: Assets/AddressableSprites/Shop&Inventory/132.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c31e32dc96c2e34aa8e575ab4c0b058
+    m_Address: Assets/AddressableSprites/Shop&Inventory/83.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bee5799cf41af9f4ab978c9dba7b53d7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/67.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8180f83cb6aa2c74690a56fe6c2dbc4f
+    m_Address: Assets/AddressableSprites/Shop&Inventory/156.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf083d150d5233b419836ce7790e8af7
+    m_Address: Assets/AddressableSprites/Shop&Inventory/134.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f66b7cc3a4aaa84b99c5f2a4c0504bd
+    m_Address: Assets/AddressableSprites/Shop&Inventory/51.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 535809f0d2b212b4198aefd87c1cf875
+    m_Address: Assets/AddressableSprites/Shop&Inventory/176.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15a582293c899414db3abca5ded79837
+    m_Address: Assets/AddressableSprites/Shop&Inventory/173.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f978e1adb183c449ea516088c1d073
+    m_Address: Assets/AddressableSprites/Shop&Inventory/140.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff4fd35628c56dc43ae6ed427759c9c0
+    m_Address: Assets/AddressableSprites/Shop&Inventory/50.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bde34b59e4de3c43b907549505edc7e
+    m_Address: Assets/AddressableSprites/Shop&Inventory/37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826d0791fc4467148bce3d5a365ea591
+    m_Address: Assets/AddressableSprites/Shop&Inventory/217.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 989d395d1d3f16f498d3a1317749cf2c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/94.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62736c0a1ab63304db5e39f39e9da2dc
+    m_Address: Assets/AddressableSprites/Shop&Inventory/162.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae72c75e3a2db134581e64452f5e125c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/146.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d44f818a74ce588489d16ec5fd397c4c
+    m_Address: Assets/AddressableSprites/Shop&Inventory/128.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c130d6e64ea5aaf44b8231bd6f4fdf23
+    m_Address: Assets/AddressableSprites/Shop&Inventory/152.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaa06c2f972f85c499ecbd59d50f8643
+    m_Address: Assets/AddressableSprites/Shop&Inventory/79.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d6371a3f36906644993bfacdec572c2
+    m_Address: Assets/AddressableSprites/Shop&Inventory/52.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3df7f27d91f33934c9258a84d24bbfdd
+    m_Address: Assets/AddressableSprites/Shop&Inventory/35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f25e5cff3b7b5e446aa2494d3c534b0e
+    m_Address: Assets/AddressableSprites/Shop&Inventory/186.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67281232ab50ccf46a73a150a49be296
+    m_Address: Assets/AddressableSprites/Shop&Inventory/938.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1422baa6d403c0408efc81ad1a89fbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5be6163aa8a14c14f852f3d6fcfffb49, type: 2}
+    - {fileID: 11400000, guid: 200b16d7d8aa96d48ae5742bb742640a, type: 2}
